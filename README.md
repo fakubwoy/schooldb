@@ -62,7 +62,7 @@ Start the frontend development server:
 ```bash
 npm run dev
 ```
-The frontend should now be running at http://localhost:3000.
+The frontend should now be running at http://localhost:5173.
 
 ## Step 4: Run Both Backend and Frontend Concurrently
 
@@ -79,5 +79,5 @@ Modify the package.json file (in the root directory) to include the following sc
 Now, run both servers concurrently with the following command:
 ```bash
 npm run dev
-This will run the frontend on http://localhost:3000 and the backend on http://localhost:5000.
+This will run the frontend on http://localhost:5173 and the backend on http://localhost:5000.
 ```
